@@ -1,12 +1,20 @@
-# Session 01: 09/08
-## Assignment:
-* filename: **01_compare.md**
-* Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
-  * If you teach CSA or CSP, you could use a different version of that course.
-  * For other courses, look around for pre-packaged courses with similar aims. Many of the Curriculum providers we looked at for AP CSP also provide intro courses at the least.
-  * Alternatively: Elementary school teachers that cannot find anything similar to compare to, or masters students may opt to compare two of the APCSP curricula that were linked in the Async portion of the assignment.
-* Focus on the following:
-  * Major differences
-  * Major similiarities
-  * Comparative streangths & weaknesses (That is does one cover a topic paticularly better/worse over the other. If both seem euqlly good then no need to comment).
-  * Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
+
+*****
+ ### Compare BJC and code.org
+ ***
+ **Similarities**
+1. Both curriculums meet the standards and requirements of CSP and highlight the major ideas in CS to expand the conceptual ideas of students about CS in a larger scale.
+2. Both curriculums uses block-based language to deliver the content of CSP which is easier for students who don't have strong programming background to start with.             
+ **Differences**
+ 1.  BJC's lessons are more project based and allows for student independent solutions. This curriculum is designed to attract "non-CS" types who may be erroneously self identifying as non-AP level or non-techy types. 
+ 2. code.org's lessons provides more scaffolding and support for students to understand. The teaching resources make it easier to implement.
+
+_Compare strengths and weaknesses_
+    BJC resources and exercises can be boring after the first 2-3 weeks and most students' drop off. Code.org offers a wider-range and variety of activities and recources. BJC is best suited for younger students and older students with a deeper engagement in CS will enjoy Code.org  and CS better.
+    
+I have used BJC and modified it by pulling resources from other sites - https://scratch.mit.edu/explore/projects/games/. I also used textbooks on gaming with Scratch that offers pre-build code that students can easily tinker with.
+
+In the module about simulation, I introduce students to the topic by using a simpe TI-84 probability simulation that captures the essence of a dice throw and then I use the BJC. This allows the transfer of prior knowledge to another.
+
+    
+     
