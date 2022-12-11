@@ -14,6 +14,7 @@ _Compare strengths and weaknesses_
     
 I have used BJC and modified it by pulling resources from other sites - https://scratch.mit.edu/explore/projects/games/. I also used textbooks on gaming with Scratch that offers pre-build code that students can easily tinker with.
 
+
 In the module about simulation, I introduce students to the topic by using a simpe TI-84 probability simulation that captures the essence of a dice throw and then I use the BJC. This allows the transfer of prior knowledge to another.
 
     
