@@ -1,4 +1,4 @@
-# Session 06: 10/27
+
 *******
 ## Async Assignment
 * In the \#async_curdev slack channel:
